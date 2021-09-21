@@ -1,3 +1,7 @@
+## Forked for polypoly use + reviewed 
+
+Forked 2021.09.21 from jakejarvis/s3-sync-action@7ed8b112447abb09f1da74f3466e4194fc7a6311 
+
 # GitHub Action to Sync S3 Bucket 🔄
 
 This simple action uses the [vanilla AWS CLI](https://docs.aws.amazon.com/cli/index.html) to sync a directory (either from your repository or generated during your workflow) with a remote S3 bucket.
